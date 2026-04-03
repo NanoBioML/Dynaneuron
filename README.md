@@ -19,13 +19,7 @@
 
 ## Installation
 
-```bash
-git clone https://github.com/yourusername/dynaneuron.git
-cd dynaneuron
-pip install -e .
-```
 
-Or directly from PyPI (when published):
 
 ```bash
 pip install dynaneuron
