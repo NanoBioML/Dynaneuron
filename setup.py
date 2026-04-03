@@ -18,7 +18,6 @@ setup(
         "pubchempy>=1.0.4",
         "pandas>=1.4.0",
         "rdkit-pypi>=2022.3.0",
-        "torchmeta>=1.8.0",
     ],
     extras_require={
         "dev": [
