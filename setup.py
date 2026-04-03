@@ -3,12 +3,12 @@ from setuptools import setup, find_packages
 setup(
     name="dynaneuron",
     version="0.1.0",
-    author="Your Name",
-    author_email="your@email.com",
+    author="Daniel Zhakupov",
+    author_email="d.a.zhakupov@gmail.com",
     description="Dynamic Spiking Neural Network library for inverse design of nanozymes",
     long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/dynaneuron",
+    url="https://github.com/Danchikkl/dynaneuron",
     packages=find_packages(),
     python_requires=">=3.8",
     install_requires=[
